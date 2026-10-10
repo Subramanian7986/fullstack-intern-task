@@ -75,7 +75,7 @@ Frontend runs on **http://localhost:5173**
 
 | | URL |
 |--|--|
-| Frontend | https://fullstack-intern-task.vercel.app |
+| Frontend | https://fullstack-intern-task-psi.vercel.app |
 | Backend API | https://fullstack-intern-task-vxvr.onrender.com |
 
 ---

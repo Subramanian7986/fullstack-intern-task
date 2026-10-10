@@ -5,7 +5,7 @@ const db = require('./db');
 
 const app = express();
 app.use(cors({
-  origin: process.env.CLIENT_URL || '*',
+  origin: process.env.CLIENT_URL || 'https://fullstack-intern-task-psi.vercel.app',
   credentials: true,
 }));
 app.use(express.json());
