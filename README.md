@@ -80,5 +80,5 @@ Frontend runs on **http://localhost:5173**
 
 ---
 
-**Author:** Vsubr  
-**Contact:** [your email here]
+**Author:** V Subramanian
+**Contact:** vsubramanianofficial@gmail.com
