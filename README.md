@@ -71,6 +71,13 @@ Frontend runs on **http://localhost:5173**
 - Loading skeletons, toast notifications, responsive mobile menu
 - Passwords hashed with bcrypt
 
+## Live Demo
+
+| | URL |
+|--|--|
+| Frontend | https://fullstack-intern-task.vercel.app |
+| Backend API | https://fullstack-intern-task-vxvr.onrender.com |
+
 ---
 
 **Author:** Vsubr  
